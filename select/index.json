@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "バベル",
+  "base_artist": "いよわ",
+  "createdAt": "2026-01-05T04:31:15.357076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バベル (M@STER VERSION)",
+      "artist": "一ノ瀬志希 (CV: 藍原ことみ) & 二宮飛鳥 (CV: 青木志貴)",
+      "has_synced": true,
+      "path": "select/01_バベル_(M@STER_VERSION)_一ノ瀬志希_(CV__藍原ことみ)_&_二宮飛鳥_(CV__青木志貴).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バベル (M@STER VERSION)",
+      "artist": "一ノ瀬志希 (CV: 藍原ことみ)、二宮飛鳥 (CV: 青木志貴)",
+      "has_synced": true,
+      "path": "select/02_バベル_(M@STER_VERSION)_一ノ瀬志希_(CV__藍原ことみ)、二宮飛鳥_(CV__青木志貴).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CARNIVAL・BABEL ~カルナバル・バベル~",
+      "artist": "TAKADA BAND",
+      "has_synced": false,
+      "path": "select/03_CARNIVAL・BABEL_~カルナバル・バベル~_TAKADA_BAND.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CARNIVAL・BABEL~カルナバル・バベル",
+      "artist": "TAKADA BAND",
+      "has_synced": false,
+      "path": "select/04_CARNIVAL・BABEL~カルナバル・バベル_TAKADA_BAND.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バベル(M@STER VERSION)",
+      "artist": "一ノ瀬志希(CV.藍原ことみ)、二宮飛鳥(CV.青木志貴)",
+      "has_synced": true,
+      "path": "select/05_バベル(M@STER_VERSION)_一ノ瀬志希(CV.藍原ことみ)、二宮飛鳥(CV.青木志貴).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CARNIVAL・BABEL ~カルナバル・バベル~",
+      "artist": "タカダ バンド",
+      "has_synced": false,
+      "path": "select/06_CARNIVAL・BABEL_~カルナバル・バベル~_タカダ_バンド.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CARNIVAL・BABEL ~カルナバル・バベル~",
+      "artist": "BLUE SEED",
+      "has_synced": false,
+      "path": "select/07_CARNIVAL・BABEL_~カルナバル・バベル~_BLUE_SEED.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "バベル (M@STER VERSION)",
+      "artist": "一ノ瀬志希",
+      "has_synced": true,
+      "path": "select/08_バベル_(M@STER_VERSION)_一ノ瀬志希.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CARNIVAL・BABEL～カルナバル・バベル～",
+      "artist": "TAKADA BAND",
+      "has_synced": false,
+      "path": "select/09_CARNIVAL・BABEL~カルナバル・バベル~_TAKADA_BAND.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "バベル (M@STER VERSION) (一ノ瀬志希ソロ・リミックス)",
+      "artist": "一ノ瀬志希",
+      "has_synced": true,
+      "path": "select/10_バベル_(M@STER_VERSION)_(一ノ瀬志希ソロ・リミックス)_一ノ瀬志希.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バベル",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_バベル_いよわ.txt"
+    }
+  ]
+}
